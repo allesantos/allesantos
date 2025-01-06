@@ -2,8 +2,7 @@
 
 # Opa👋, Sou Alexandre Santos 🖐
 
-Sou Desenvolvedor Front-End e Back-End com experiência de atuação em diversos projetos. Iniciando no desenvolvimento em 2016, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado dia após dia.
-Possuo foco em Desenvolvimento com Python e Django dentre outras tecnologias que uso para criar aplicações web de alto nível e valor.
+Sou Desenvolvedor com conhecimento em desenvolvimento web, especializado em soluções Full Stack. Possuo domínio de diversas linguagens de programação e frameworks, com foco na criação de aplicações robustas, escaláveis e voltadas à experiência do usuário. Busco oportunidades para aplicar meus conhecimentos em projetos desafiadores e inovadores, contribuindo com soluções criativas e eficientes. Possuo foco em Desenvolvimento com Python e Django dentre outras tecnologias que uso para criar aplicações web de alto nível e valor.
 
 ---
 
