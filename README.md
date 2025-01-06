@@ -1,6 +1,7 @@
-<img src = "alle.png" width = "325px" align = "right">
 
 # Opa👋, Sou Alexandre Santos 🖐
+
+<img src = "alle.png" width = "325px" align = "right">
 
 Sou Desenvolvedor com conhecimento em desenvolvimento web, especializado em soluções Full Stack. Possuo domínio de diversas linguagens de programação e frameworks, com foco na criação de aplicações robustas, escaláveis e voltadas à experiência do usuário. Busco oportunidades para aplicar meus conhecimentos em projetos desafiadores e inovadores, contribuindo com soluções criativas e eficientes. Possuo foco em Desenvolvimento com Python e Django dentre outras tecnologias que uso para criar aplicações web de alto nível e valor.
 
