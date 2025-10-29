@@ -3,7 +3,7 @@
 
 <img src = "alle.png" width = "325px" align = "right">
 
-Sou Desenvolvedor com conhecimento em desenvolvimento web, especializado em soluções Full Stack. Possuo domínio de diversas linguagens de programação e frameworks, com foco na criação de aplicações robustas, escaláveis e voltadas à experiência do usuário. Busco oportunidades para aplicar meus conhecimentos em projetos desafiadores e inovadores, contribuindo com soluções criativas e eficientes. Possuo foco em Desenvolvimento com Python e Django dentre outras tecnologias que uso para criar aplicações web de alto nível e valor.
+Sou apaixonado por tecnologia e inovação, com foco em Python, automação e inteligência artificial. Desenvolvo soluções que transformam dados e rotinas em sistemas inteligentes e eficientes. Tenho experiência em desenvolvimento web Full Stack e utilizo frameworks como Django e FastAPI para criar aplicações modernas, escaláveis e de impacto real.
 
 ---
 
